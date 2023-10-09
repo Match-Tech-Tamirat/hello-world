@@ -4,7 +4,7 @@ This is an example repository for the Git tutorial on  [www.w3schools.com](https
 
 This repository is built step by step in the tutorial.
 
-It now included steps for guthub 
+It now included steps for github 
 
 
 # Git GitHub, Bitbucket and GitLab Flow,
@@ -56,7 +56,7 @@ The GitHub, Bitbucket and GitLab flow works like this:
 
 It now included steps for guhub 
 
-It now included steps for local git on arepstory some changes
+It now included steps for local git on aleatory some changes
 
 
 # Working with the Bitbucket Flow
@@ -190,4 +190,4 @@ The GitLab Flow is a workflow designed to work well with Git and GitLab, focusin
 The GitLab Flow is especially well-suited for teams looking for a streamlined development and deployment process with strong CI/CD integration. It encourages collaboration, automation, and documentation to deliver high-quality software efficiently.
 
 
-# contenue..
+# **continue**..
