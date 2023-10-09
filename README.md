@@ -188,3 +188,6 @@ The GitLab Flow is a workflow designed to work well with Git and GitLab, focusin
 - Use GitLab's collaboration features like code discussions, issue tracking, and project boards to keep the team aligned.
 
 The GitLab Flow is especially well-suited for teams looking for a streamlined development and deployment process with strong CI/CD integration. It encourages collaboration, automation, and documentation to deliver high-quality software efficiently.
+
+
+# contenue..
